@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspync",
+        "uuid": 34334120,
+        "checksum": "klfhnb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
